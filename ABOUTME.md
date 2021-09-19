@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @siuslaw
-- 👀 I’m interested in a lot of things.
-- 🌱 I’m currently working on some configs.
